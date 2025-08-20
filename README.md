@@ -22,3 +22,9 @@ sub: ephaptic effect is subtracted
 same: neurons in the penultimate fully connected layer couple with each other
 
 inter: neurons in the first fully connected layer couple with neurons in the second fully connected layer
+
+## Directories
+
+basic: ephaptic effect is incorporated in the CNN
+dc: DropConnect (dropping of weights) has been implemented between the first and second fully conected layers
+dc: DropConnect (dropping of weights) has been implemented between the first and second fully conected layers, only during training
