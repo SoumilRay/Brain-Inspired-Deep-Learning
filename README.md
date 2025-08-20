@@ -13,7 +13,7 @@ worsens or stays the same. We explore different ways of implementing this effect
 combine this phenomenon with known machine learning strategies to test how performance
 varies.
 
-Nomenclature:
+## Nomenclature
 
 add: ephaptic effect is added
 
