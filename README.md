@@ -14,7 +14,11 @@ combine this phenomenon with known machine learning strategies to test how perfo
 varies.
 
 Nomenclature:
+
 add: ephaptic effect is added
+
 sub: ephaptic effect is subtracted
+
 same: neurons in the penultimate fully connected layer couple with each other
+
 inter: neurons in the first fully connected layer couple with neurons in the second fully connected layer
